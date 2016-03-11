@@ -4,20 +4,19 @@
   "description": "Banhammer bot",
   "author": "Henry Pitcairn <735tesla@gmail.com>",
   "scripts": {
-    "start": "node app.js",
+    "start": "node app.js"
   },
   "main": "appjs",
   "repository": {
-  "type": "git",
-  "url": "https://github.com/735tesla/Banhammer.git"
-},
-  "bugs": {
-  "url": "https://github.com/735tesla/Banhammer.git/issues"
-},
-  "dependencies": {
-
+    "type": "git",
+    "url": "https://github.com/735tesla/Banhammer.git"
   },
-},
+  "bugs": {
+    "url": "https://github.com/735tesla/Banhammer.git/issues"
+  },
+  "dependencies": {
+    "botkit": "0.0.8"
+  },
   "analyze": true,
   "license": "MIT"
 }

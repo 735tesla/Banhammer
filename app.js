@@ -1,5 +1,4 @@
 var Botkit = require('botkit');
-var process = require('process');
 var controller = Botkit.slackbot();
 var bot = controller.spawn({
   token: ''

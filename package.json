@@ -15,7 +15,8 @@
     "url": "https://github.com/735tesla/Banhammer.git/issues"
   },
   "dependencies": {
-    "botkit": "0.0.8"
+    "botkit": "0.0.8",
+    "process": "^0.11.2"
   },
   "analyze": true,
   "license": "MIT"
